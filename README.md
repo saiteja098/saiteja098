@@ -1,5 +1,5 @@
 -👋Hi!, I'm Sai Teja.
-- I'm intrested in software engineering.
+- I'm interested in software engineering.
 
 - i can build and design full stack websites using REACT.js as a front end framework, 
   NODE.js and EXPRESS.js as backend for the websites and MONGODB AND MONGOOSE as a database for the websites.
