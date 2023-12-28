@@ -1,2 +1,3 @@
--👋Hi!, I'm Sai Teja.
--I love building cool stuff.
+👋Hi!, I'm Sai Teja.
+
+I love building cool stuff.
