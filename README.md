@@ -1,6 +1,6 @@
 # Hi there, I'm Saiteja 👋
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=saiteja098.saiteja098)
+![Profile Views](https://komarev.com/ghpvc/?username=saiteja098&label=Profile%20Views&color=blue&style=flat)
 
 I'm a passionate developer with a keen interest in web development, machine learning, and open-source contributions. I love exploring new technologies and working on interesting projects.
 
